@@ -45,6 +45,6 @@ Projeto onde várias Redes Neurais competem para aprender a dirigir em uma pista
 - A função 'ControlarEstadoCarros' dentro do arquivo 'main.cpp' contém o código que faz a comunicação entre o simulador e a rede neural.
 - O resto dos arquivos são apenas os códigos da implementação do simulador.
 
-No arquivo DeepCars.rar você encontra o projeto completo (todos os códigos, imagens, biblioteca gráfica, e as dll's necessárias para executar o ambiente onde os carros vão aprender.
+No arquivo DeepCars.rar você encontra o projeto completo (todos os códigos, imagens, biblioteca gráfica, e as dll's necessárias para executar o ambiente onde os carros vão aprender).
 
 Um grande abraço!
